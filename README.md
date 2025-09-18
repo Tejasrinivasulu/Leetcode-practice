@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0007-reverse-integer) |
 | [0066-plus-one](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0202-happy-number) |
 | [1372-check-if-it-is-a-good-array](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/1372-check-if-it-is-a-good-array) |
