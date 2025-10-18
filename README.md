@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0033-search-in-rotated-sorted-array) |
+| [0049-group-anagrams](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0066-plus-one) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [1185-find-in-mountain-array](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/1185-find-in-mountain-array) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0049-group-anagrams) |
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/2423-minimum-deletions-to-make-array-divisible) |
 ## Heap (Priority Queue)
 |  |
@@ -42,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0049-group-anagrams) |
 | [0202-happy-number](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0202-happy-number) |
 ## Two Pointers
 |  |
@@ -64,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0049-group-anagrams) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Sliding Window
 |  |
