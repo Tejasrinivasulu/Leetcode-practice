@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0002-add-two-numbers) |
 | [0092-reverse-linked-list-ii](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0092-reverse-linked-list-ii) |
+| [0146-lru-cache](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0146-lru-cache) |
 ## Array
 |  |
 | ------- |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0049-group-anagrams) |
+| [0146-lru-cache](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0146-lru-cache) |
 | [0202-happy-number](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0202-happy-number) |
 ## Two Pointers
 |  |
@@ -105,4 +107,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0342-power-of-four) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
