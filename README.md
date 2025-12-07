@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0342-power-of-four) |
 | [1372-check-if-it-is-a-good-array](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/1372-check-if-it-is-a-good-array) |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/2423-minimum-deletions-to-make-array-divisible) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Number Theory
