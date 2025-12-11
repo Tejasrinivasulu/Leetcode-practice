@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1372-check-if-it-is-a-good-array](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/1372-check-if-it-is-a-good-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/2423-minimum-deletions-to-make-array-divisible) |
+| [2956-find-common-elements-between-two-arrays](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3531-count-covered-buildings](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/3531-count-covered-buildings) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3583-count-special-triplets](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/3583-count-special-triplets) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0049-group-anagrams) |
 | [0146-lru-cache](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0146-lru-cache) |
 | [0202-happy-number](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0202-happy-number) |
+| [2956-find-common-elements-between-two-arrays](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3531-count-covered-buildings](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/3531-count-covered-buildings) |
 | [3583-count-special-triplets](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/3583-count-special-triplets) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
