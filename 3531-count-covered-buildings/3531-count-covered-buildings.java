@@ -1,6 +1,6 @@
 class Solution {
     public int countCoveredBuildings(int n, int[][] buildings) {
-          // Row -> all y values in that row
+           // Row -> all y values in that row
         Map<Integer, List<Integer>> rowMap = new HashMap<>();
         // Column -> all x values in that column
         Map<Integer, List<Integer>> colMap = new HashMap<>();
