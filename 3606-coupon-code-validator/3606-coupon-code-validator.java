@@ -2,12 +2,10 @@ class Solution {
     public List<String> validateCoupons(String[] code, String[] businessLine, boolean[] isActive) {
          List<String> result = new ArrayList<>();
 
-        // order of business lines
         List<String> order = Arrays.asList(
                 "electronics", "grocery", "pharmacy", "restaurant"
         );
 
-        // store valid coupons grouped by business line
         Map<String, List<String>> map = new HashMap<>();
 
         for (String b : order) {
@@ -26,8 +24,6 @@ class Solution {
 
             map.get(businessLine[i]).add(code[i]);
         }
-
-    
         for (String b : order) {
             List<String> list = map.get(b);
             Collections.sort(list);
