@@ -1,0 +1,39 @@
+class Solution {
+    public List<String> validateCoupons(String[] code, String[] businessLine, boolean[] isActive) {
+         List<String> result = new ArrayList<>();
+
+        // order of business lines
+        List<String> order = Arrays.asList(
+                "electronics", "grocery", "pharmacy", "restaurant"
+        );
+
+        // store valid coupons grouped by business line
+        Map<String, List<String>> map = new HashMap<>();
+
+        for (String b : order) {
+            map.put(b, new ArrayList<>());
+        }
+
+        for (int i = 0; i < code.length; i++) {
+
+            if (!isActive[i]) continue;
+
+            if (code[i].length() == 0) continue;
+
+            if (!code[i].matches("[a-zA-Z0-9_]+")) continue;
+
+            if (!map.containsKey(businessLine[i])) continue;
+
+            map.get(businessLine[i]).add(code[i]);
+        }
+
+    
+        for (String b : order) {
+            List<String> list = map.get(b);
+            Collections.sort(list);
+            result.addAll(list);
+        }
+
+        return result;
+    }
+}
