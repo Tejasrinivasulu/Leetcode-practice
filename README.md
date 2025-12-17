@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0005-longest-palindromic-substring) |
 | [0049-group-anagrams](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0049-group-anagrams) |
+| [0058-length-of-last-word](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0345-reverse-vowels-of-a-string) |
