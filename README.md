@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3606-coupon-code-validator](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/3606-coupon-code-validator) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
+| [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 ## Math
 |  |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
+| [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
+| [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 ## Combinatorics
 |  |
 | ------- |
