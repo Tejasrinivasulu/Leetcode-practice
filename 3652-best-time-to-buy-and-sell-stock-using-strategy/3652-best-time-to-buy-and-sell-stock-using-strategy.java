@@ -2,39 +2,37 @@ class Solution {
     public long maxProfit(int[] prices, int[] strategy, int k) {
          int n = prices.length;
 
-        long originalProfit = 0;
+        long baseProfit = 0;
         for (int i = 0; i < n; i++) {
-            originalProfit += (long) strategy[i] * prices[i];
+            baseProfit += (long) strategy[i] * prices[i];
         }
 
-        // prefix sum of old strategy profit
-        long[] prefOld = new long[n + 1];
+        long maxProfit = baseProfit;
+
+        long oldWindowSum = 0;
+        long sellHalfSum = 0;
+
         for (int i = 0; i < n; i++) {
-            prefOld[i + 1] = prefOld[i] + (long) strategy[i] * prices[i];
+            oldWindowSum += (long) strategy[i] * prices[i];
+
+            if (i >= k / 2) {
+                sellHalfSum += prices[i];
+            }
+
+            if (i >= k) {
+                oldWindowSum -= (long) strategy[i - k] * prices[i - k];
+            }
+
+            if (i >= k / 2 * 2) {
+                sellHalfSum -= prices[i - k / 2];
+            }
+
+            if (i >= k - 1) {
+                long newProfit = baseProfit - oldWindowSum + sellHalfSum;
+                maxProfit = Math.max(maxProfit, newProfit);
+            }
         }
 
-        // prefix sum of prices
-        long[] prefPrice = new long[n + 1];
-        for (int i = 0; i < n; i++) {
-            prefPrice[i + 1] = prefPrice[i] + prices[i];
-        }
-
-        int half = k / 2;
-        long maxGain = 0;
-
-        for (int l = 0; l + k <= n; l++) {
-            int r = l + k;
-
-            // old contribution in window
-            long oldSum = prefOld[r] - prefOld[l];
-
-            // new contribution: only last k/2 are sells
-            long newSum = prefPrice[r] - prefPrice[l + half];
-
-            long gain = newSum - oldSum;
-            maxGain = Math.max(maxGain, gain);
-        }
-
-        return originalProfit + maxGain;
+        return maxProfit;
     }
 }
