@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0049-group-anagrams) |
+| [2092-find-all-people-with-secret](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/2092-find-all-people-with-secret) |
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/2423-minimum-deletions-to-make-array-divisible) |
 | [3433-count-mentions-per-user](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/3433-count-mentions-per-user) |
 | [3531-count-covered-buildings](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/3531-count-covered-buildings) |
@@ -238,5 +239,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [2092-find-all-people-with-secret](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/2092-find-all-people-with-secret) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2092-find-all-people-with-secret](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/2092-find-all-people-with-secret) |
+## Union Find
+|  |
+| ------- |
+| [2092-find-all-people-with-secret](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/2092-find-all-people-with-secret) |
+## Graph
+|  |
+| ------- |
+| [2092-find-all-people-with-secret](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/2092-find-all-people-with-secret) |
 <!---LeetCode Topics End-->
