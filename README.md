@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2937-make-three-strings-equal](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/2937-make-three-strings-equal) |
 | [3606-coupon-code-validator](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/3606-coupon-code-validator) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [2483-minimum-penalty-for-a-shop](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/2483-minimum-penalty-for-a-shop) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
