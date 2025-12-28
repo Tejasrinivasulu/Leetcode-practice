@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2402-meeting-rooms-iii](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/2402-meeting-rooms-iii) |
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/2423-minimum-deletions-to-make-array-divisible) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/3075-maximize-happiness-of-selected-children) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1185-find-in-mountain-array](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/1185-find-in-mountain-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2054-two-best-non-overlapping-events](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/2054-two-best-non-overlapping-events) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 ## Interactive
@@ -256,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3583-count-special-triplets](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/3583-count-special-triplets) |
 ## Brainteaser
 |  |
