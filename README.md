@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0137-single-number-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0204-count-primes](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0204-count-primes) |
 | [0283-move-zeroes](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0283-move-zeroes) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0342-power-of-four) |
