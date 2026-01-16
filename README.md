@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0066-plus-one) |
+| [0085-maximal-rectangle](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0085-maximal-rectangle) |
 | [0136-single-number](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0137-single-number-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0005-longest-palindromic-substring) |
 | [0070-climbing-stairs](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0070-climbing-stairs) |
+| [0085-maximal-rectangle](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0085-maximal-rectangle) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [2054-two-best-non-overlapping-events](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/2054-two-best-non-overlapping-events) |
@@ -349,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0085-maximal-rectangle) |
 | [0840-magic-squares-in-grid](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0840-magic-squares-in-grid) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/1970-last-day-where-you-can-still-cross) |
@@ -377,4 +380,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3454-separate-squares-ii](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/3454-separate-squares-ii) |
+## Stack
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0085-maximal-rectangle) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0085-maximal-rectangle) |
 <!---LeetCode Topics End-->
