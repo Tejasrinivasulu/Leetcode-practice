@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0092-reverse-linked-list-ii](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0092-reverse-linked-list-ii) |
 | [0146-lru-cache](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0146-lru-cache) |
+| [0148-sort-list](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0148-sort-list) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 ## Array
 |  |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0049-group-anagrams) |
+| [0148-sort-list](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0148-sort-list) |
 | [0389-find-the-difference](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0389-find-the-difference) |
 | [2054-two-best-non-overlapping-events](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/2054-two-best-non-overlapping-events) |
 | [2092-find-all-people-with-secret](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/2092-find-all-people-with-secret) |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0125-valid-palindrome) |
+| [0148-sort-list](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0151-reverse-words-in-a-string) |
 | [0202-happy-number](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0283-move-zeroes) |
@@ -278,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0004-median-of-two-sorted-arrays) |
+| [0148-sort-list](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0148-sort-list) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -397,4 +401,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0085-maximal-rectangle) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
