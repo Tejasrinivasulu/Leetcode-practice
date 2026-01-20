@@ -1,28 +1,16 @@
 class Solution {
     public int[] minBitwiseArray(List<Integer> nums) {
-        int n = nums.size();
-        int[] ans = new int[n];
-
-        for (int i = 0; i < n; i++) {
-            int val = nums.get(i);
-
-            // Even number → impossible
-            if ((val & 1) == 0) {
-                ans[i] = -1;
-                continue;
+        int[] a=new int[nums.size()];
+        for(int i=0;i<nums.size();i++){
+            int ans=-1;
+            for(int j=0;j<nums.get(i);j++){
+                if((j  | (j+1))==nums.get(i)){
+                    ans=j;
+                    break;
+                }
             }
-
-            // Count trailing 1s
-            int temp = val;
-            int t = 0;
-            while ((temp & 1) == 1) {
-                t++;
-                temp >>= 1;
-            }
-
-            // Remove highest bit among trailing ones
-            ans[i] = val - (1 << (t - 1));
+            a[i]=ans;
         }
-        return ans;
+        return a;
     }
 }
