@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0012-integer-to-roman) |
 | [0066-plus-one](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0202-happy-number) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0345-reverse-vowels-of-a-string) |
@@ -265,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0190-reverse-bits) |
@@ -288,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0067-add-binary) |
 | [1929-concatenation-of-array](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/1929-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2402-meeting-rooms-iii](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/2402-meeting-rooms-iii) |
