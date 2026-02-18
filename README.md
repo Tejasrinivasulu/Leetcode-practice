@@ -276,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0389-find-the-difference) |
 | [0401-binary-watch](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0401-binary-watch) |
+| [0693-binary-number-with-alternating-bits](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0693-binary-number-with-alternating-bits) |
 | [0756-pyramid-transition-matrix](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0756-pyramid-transition-matrix) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
