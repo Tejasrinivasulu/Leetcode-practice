@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0287-find-the-duplicate-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0345-reverse-vowels-of-a-string) |
+| [0696-count-binary-substrings](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0696-count-binary-substrings) |
 | [3794-reverse-string-prefix](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/3794-reverse-string-prefix) |
 ## Recursion
 |  |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0389-find-the-difference) |
+| [0696-count-binary-substrings](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0696-count-binary-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0756-pyramid-transition-matrix](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0756-pyramid-transition-matrix) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0944-delete-columns-to-make-sorted) |
