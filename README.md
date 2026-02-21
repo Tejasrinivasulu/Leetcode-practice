@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0342-power-of-four) |
 | [0507-perfect-number](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0507-perfect-number) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0840-magic-squares-in-grid](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0840-magic-squares-in-grid) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/1266-minimum-time-visiting-all-points) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
@@ -282,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0401-binary-watch](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0401-binary-watch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0693-binary-number-with-alternating-bits) |
 | [0756-pyramid-transition-matrix](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0756-pyramid-transition-matrix) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 ## Design
