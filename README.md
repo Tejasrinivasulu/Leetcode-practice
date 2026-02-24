@@ -379,12 +379,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0110-balanced-binary-tree) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0110-balanced-binary-tree) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2092-find-all-people-with-secret](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/2092-find-all-people-with-secret) |
@@ -434,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0110-balanced-binary-tree) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Geometry
 |  |
