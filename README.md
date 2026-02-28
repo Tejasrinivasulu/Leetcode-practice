@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1372-check-if-it-is-a-good-array](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/1372-check-if-it-is-a-good-array) |
 | [1390-four-divisors](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/1390-four-divisors) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1925-count-square-sum-triples](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/1925-count-square-sum-triples) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0868-binary-gap](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0868-binary-gap) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 ## Design
@@ -311,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0067-add-binary) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1929-concatenation-of-array](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/1929-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2402-meeting-rooms-iii](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/2402-meeting-rooms-iii) |
