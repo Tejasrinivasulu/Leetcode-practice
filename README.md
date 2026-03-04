@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0012-integer-to-roman) |
+| [0050-powx-n](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0069-sqrtx) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0021-merge-two-sorted-lists) |
+| [0050-powx-n](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0326-power-of-three) |
