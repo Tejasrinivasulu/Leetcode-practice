@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1372-check-if-it-is-a-good-array](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/1372-check-if-it-is-a-good-array) |
 | [1390-four-divisors](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/1390-four-divisors) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1895-largest-magic-square](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/1895-largest-magic-square) |
 | [1929-concatenation-of-array](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/1929-concatenation-of-array) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/1970-last-day-where-you-can-still-cross) |
@@ -431,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0840-magic-squares-in-grid](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0840-magic-squares-in-grid) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1895-largest-magic-square](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/1895-largest-magic-square) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/1975-maximum-matrix-sum) |
