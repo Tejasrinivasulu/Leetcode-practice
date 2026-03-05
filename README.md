@@ -240,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0389-find-the-difference) |
+| [0520-detect-capital](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0520-detect-capital) |
 | [0696-count-binary-substrings](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0696-count-binary-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0756-pyramid-transition-matrix](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0756-pyramid-transition-matrix) |
