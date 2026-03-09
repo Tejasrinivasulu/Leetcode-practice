@@ -367,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2054-two-best-non-overlapping-events](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/2054-two-best-non-overlapping-events) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
+| [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 ## Prefix Sum
@@ -375,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1895-largest-magic-square](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/1895-largest-magic-square) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/2483-minimum-penalty-for-a-shop) |
+| [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
