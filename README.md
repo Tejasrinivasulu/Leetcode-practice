@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0263-ugly-number) |
+| [0264-ugly-number-ii](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0264-ugly-number-ii) |
 | [0326-power-of-three](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0342-power-of-four) |
 | [0507-perfect-number](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0507-perfect-number) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0264-ugly-number-ii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2054-two-best-non-overlapping-events](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/2054-two-best-non-overlapping-events) |
 | [2402-meeting-rooms-iii](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/2402-meeting-rooms-iii) |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0049-group-anagrams) |
 | [0146-lru-cache](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0146-lru-cache) |
 | [0202-happy-number](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0202-happy-number) |
+| [0264-ugly-number-ii](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0264-ugly-number-ii) |
 | [0389-find-the-difference](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0389-find-the-difference) |
 | [0756-pyramid-transition-matrix](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0756-pyramid-transition-matrix) |
 | [0840-magic-squares-in-grid](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0840-magic-squares-in-grid) |
@@ -376,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0005-longest-palindromic-substring) |
 | [0070-climbing-stairs](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0085-maximal-rectangle) |
+| [0264-ugly-number-ii](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0264-ugly-number-ii) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0799-champagne-tower](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0799-champagne-tower) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0960-delete-columns-to-make-sorted-iii) |
