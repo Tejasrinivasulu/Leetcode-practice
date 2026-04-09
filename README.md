@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/3653-xor-after-range-multiplication-queries-i) |
+| [3655-xor-after-range-multiplication-queries-ii](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 ## Math
@@ -394,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0190-reverse-bits) |
 | [0761-special-binary-string](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0761-special-binary-string) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/3653-xor-after-range-multiplication-queries-i) |
+| [3655-xor-after-range-multiplication-queries-ii](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
