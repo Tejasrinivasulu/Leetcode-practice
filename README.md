@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [1861-rotating-the-box](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/1861-rotating-the-box) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1895-largest-magic-square](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/1895-largest-magic-square) |
 | [1929-concatenation-of-array](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/1929-concatenation-of-array) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0287-find-the-duplicate-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0345-reverse-vowels-of-a-string) |
 | [0696-count-binary-substrings](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0696-count-binary-substrings) |
+| [1861-rotating-the-box](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/1861-rotating-the-box) |
 | [3794-reverse-string-prefix](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/3794-reverse-string-prefix) |
 ## Recursion
 |  |
@@ -512,6 +514,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [1861-rotating-the-box](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/1861-rotating-the-box) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1895-largest-magic-square](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/1895-largest-magic-square) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/1970-last-day-where-you-can-still-cross) |
