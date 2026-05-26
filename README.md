@@ -210,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3531-count-covered-buildings](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/3531-count-covered-buildings) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/3541-find-most-frequent-vowel-and-consonant) |
@@ -316,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2937-make-three-strings-equal](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/2937-make-three-strings-equal) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/3498-reverse-degree-of-a-string) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/3541-find-most-frequent-vowel-and-consonant) |
