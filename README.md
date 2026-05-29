@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3093-longest-common-suffix-queries](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/3093-longest-common-suffix-queries) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3379-transformed-array](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/3379-transformed-array) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/2423-minimum-deletions-to-make-array-divisible) |
 | [2469-convert-the-temperature](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/2469-convert-the-temperature) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3433-count-mentions-per-user](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/3433-count-mentions-per-user) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
