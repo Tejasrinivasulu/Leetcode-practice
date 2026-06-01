@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2126-destroying-asteroids](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/2126-destroying-asteroids) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2402-meeting-rooms-iii](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/2402-meeting-rooms-iii) |
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/2423-minimum-deletions-to-make-array-divisible) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2054-two-best-non-overlapping-events](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/2054-two-best-non-overlapping-events) |
 | [2092-find-all-people-with-secret](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/2092-find-all-people-with-secret) |
 | [2126-destroying-asteroids](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/2126-destroying-asteroids) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2402-meeting-rooms-iii](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/2402-meeting-rooms-iii) |
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/2423-minimum-deletions-to-make-array-divisible) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
@@ -525,6 +527,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1975-maximum-matrix-sum](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/1975-maximum-matrix-sum) |
 | [2126-destroying-asteroids](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/2126-destroying-asteroids) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2573-find-the-string-with-lcp](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/2573-find-the-string-with-lcp) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/3075-maximize-happiness-of-selected-children) |
