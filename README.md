@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3433-count-mentions-per-user](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/3433-count-mentions-per-user) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Number Theory
@@ -458,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/3661-maximum-walls-destroyed-by-robots) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -486,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0204-count-primes) |
 | [1925-count-square-sum-triples](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/1925-count-square-sum-triples) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Counting
 |  |
 | ------- |
