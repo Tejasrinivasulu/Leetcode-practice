@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0075-sort-colors) |
 | [0085-maximal-rectangle](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0085-maximal-rectangle) |
@@ -433,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0148-sort-list) |
 | [0190-reverse-bits](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0190-reverse-bits) |
 | [0761-special-binary-string](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0761-special-binary-string) |
@@ -442,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0005-longest-palindromic-substring) |
+| [0053-maximum-subarray](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0085-maximal-rectangle) |
 | [0264-ugly-number-ii](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0264-ugly-number-ii) |
