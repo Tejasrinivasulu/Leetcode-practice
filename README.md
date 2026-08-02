@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0204-count-primes) |
 | [0283-move-zeroes](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0704-binary-search) |
 | [0840-magic-squares-in-grid](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0840-magic-squares-in-grid) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0944-delete-columns-to-make-sorted) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0148-sort-list) |
+| [0349-intersection-of-two-arrays](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0389-find-the-difference) |
 | [0761-special-binary-string](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0761-special-binary-string) |
 | [1200-minimum-absolute-difference](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/1200-minimum-absolute-difference) |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0146-lru-cache) |
 | [0202-happy-number](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0202-happy-number) |
 | [0264-ugly-number-ii](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0264-ugly-number-ii) |
+| [0349-intersection-of-two-arrays](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0389-find-the-difference) |
 | [0756-pyramid-transition-matrix](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0756-pyramid-transition-matrix) |
 | [0840-magic-squares-in-grid](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0840-magic-squares-in-grid) |
@@ -248,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0287-find-the-duplicate-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0345-reverse-vowels-of-a-string) |
+| [0349-intersection-of-two-arrays](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0349-intersection-of-two-arrays) |
 | [0696-count-binary-substrings](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0696-count-binary-substrings) |
 | [1861-rotating-the-box](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/1861-rotating-the-box) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -275,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1185-find-in-mountain-array](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/1185-find-in-mountain-array) |
