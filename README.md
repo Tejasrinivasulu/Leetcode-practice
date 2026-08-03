@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0485-max-consecutive-ones](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0485-max-consecutive-ones) |
+| [0560-subarray-sum-equals-k](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0704-binary-search) |
 | [0840-magic-squares-in-grid](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0840-magic-squares-in-grid) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0944-delete-columns-to-make-sorted) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0389-find-the-difference) |
+| [0560-subarray-sum-equals-k](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0560-subarray-sum-equals-k) |
 | [0756-pyramid-transition-matrix](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0756-pyramid-transition-matrix) |
 | [0840-magic-squares-in-grid](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0840-magic-squares-in-grid) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -487,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0560-subarray-sum-equals-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/1674-minimum-moves-to-make-array-complementary) |
