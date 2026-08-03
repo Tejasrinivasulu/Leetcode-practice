@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0704-binary-search) |
 | [0840-magic-squares-in-grid](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0840-magic-squares-in-grid) |
+| [0877-stone-game](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0877-stone-game) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0960-delete-columns-to-make-sorted-iii) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0507-perfect-number) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0840-magic-squares-in-grid](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0840-magic-squares-in-grid) |
+| [0877-stone-game](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0877-stone-game) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/1266-minimum-time-visiting-all-points) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1372-check-if-it-is-a-good-array](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/1372-check-if-it-is-a-good-array) |
@@ -469,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0264-ugly-number-ii) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0799-champagne-tower](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0799-champagne-tower) |
+| [0877-stone-game](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0877-stone-game) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1340-jump-game-v](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/1340-jump-game-v) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
@@ -661,4 +664,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3093-longest-common-suffix-queries](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/3093-longest-common-suffix-queries) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
