@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2469-convert-the-temperature](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/2469-convert-the-temperature) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3433-count-mentions-per-user](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/3433-count-mentions-per-user) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/3751-total-waviness-of-numbers-in-range-i) |
@@ -526,6 +527,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0204-count-primes) |
 | [1925-count-square-sum-triples](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/1925-count-square-sum-triples) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Counting
 |  |
