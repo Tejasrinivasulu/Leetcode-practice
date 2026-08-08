@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0204-count-primes](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0204-count-primes) |
+| [0229-majority-element-ii](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0287-find-the-duplicate-number) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0148-sort-list) |
+| [0229-majority-element-ii](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0128-longest-consecutive-sequence) |
 | [0146-lru-cache](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0146-lru-cache) |
 | [0202-happy-number](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0202-happy-number) |
+| [0229-majority-element-ii](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0229-majority-element-ii) |
 | [0264-ugly-number-ii](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0349-intersection-of-two-arrays) |
@@ -532,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0229-majority-element-ii) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3583-count-special-triplets](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/3583-count-special-triplets) |
@@ -687,4 +691,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0877-stone-game) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
