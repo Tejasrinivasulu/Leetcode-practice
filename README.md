@@ -549,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0110-balanced-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -556,6 +557,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0110-balanced-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -629,6 +631,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0110-balanced-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -651,6 +654,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0085-maximal-rectangle) |
+| [0094-binary-tree-inorder-traversal](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0094-binary-tree-inorder-traversal) |
 ## Monotonic Stack
 |  |
 | ------- |
