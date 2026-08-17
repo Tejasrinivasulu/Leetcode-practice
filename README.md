@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1185-find-in-mountain-array](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/1185-find-in-mountain-array) |
 | [1200-minimum-absolute-difference](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/1200-minimum-absolute-difference) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0389-find-the-difference) |
 | [0761-special-binary-string](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0761-special-binary-string) |
+| [0977-squares-of-a-sorted-array](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1200-minimum-absolute-difference](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/1200-minimum-absolute-difference) |
 | [1340-jump-game-v](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/1340-jump-game-v) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/1727-largest-submatrix-with-rearrangements) |
@@ -281,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0696-count-binary-substrings](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0696-count-binary-substrings) |
+| [0977-squares-of-a-sorted-array](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1861-rotating-the-box](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/1861-rotating-the-box) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
