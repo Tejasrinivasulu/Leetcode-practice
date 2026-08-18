@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0704-binary-search) |
+| [0724-find-pivot-index](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0724-find-pivot-index) |
 | [0840-magic-squares-in-grid](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0840-magic-squares-in-grid) |
 | [0877-stone-game](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0877-stone-game) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0944-delete-columns-to-make-sorted) |
@@ -534,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/1674-minimum-moves-to-make-array-complementary) |
