@@ -772,4 +772,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0387-first-unique-character-in-a-string) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
