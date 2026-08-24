@@ -781,6 +781,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1075-project-employees-i](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/1075-project-employees-i) |
 | [1148-article-views-i](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/1148-article-views-i) |
 | [1251-average-selling-price](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/1251-average-selling-price) |
+| [1517-find-users-with-valid-e-mails](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/1517-find-users-with-valid-e-mails) |
 | [1729-find-followers-count](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/1729-find-followers-count) |
 ## DP on Trees
 |  |
