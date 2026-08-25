@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/3661-maximum-walls-destroyed-by-robots) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 ## Math
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3583-count-special-triplets](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/3583-count-special-triplets) |
 | [3606-coupon-code-validator](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/3606-coupon-code-validator) |
 | [3714-longest-balanced-substring-ii](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/3714-longest-balanced-substring-ii) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 ## Two Pointers
