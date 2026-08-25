@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3345-smallest-divisible-digit-product-i](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3433-count-mentions-per-user](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/3433-count-mentions-per-user) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
