@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1390-four-divisors](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/1390-four-divisors) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -400,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1508-longest-happy-prefix](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/1508-longest-happy-prefix) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
