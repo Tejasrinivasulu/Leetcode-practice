@@ -604,6 +604,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0094-binary-tree-inorder-traversal) |
+| [0101-symmetric-tree](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0101-symmetric-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0110-balanced-binary-tree](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -617,6 +618,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0094-binary-tree-inorder-traversal) |
+| [0101-symmetric-tree](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0144-binary-tree-preorder-traversal) |
@@ -630,6 +632,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0101-symmetric-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/1970-last-day-where-you-can-still-cross) |
@@ -698,6 +701,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0094-binary-tree-inorder-traversal) |
+| [0101-symmetric-tree](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0101-symmetric-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0110-balanced-binary-tree](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0124-binary-tree-maximum-path-sum) |
