@@ -812,6 +812,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1251-average-selling-price](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/1251-average-selling-price) |
 | [1517-find-users-with-valid-e-mails](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/1517-find-users-with-valid-e-mails) |
 | [1527-patients-with-a-condition](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/1527-patients-with-a-condition) |
+| [1693-daily-leads-and-partners](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/1693-daily-leads-and-partners) |
 | [1729-find-followers-count](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/1729-find-followers-count) |
 ## DP on Trees
 |  |
