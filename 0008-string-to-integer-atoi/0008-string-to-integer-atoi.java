@@ -4,7 +4,6 @@ class Solution {
             return 0;
         }
         
-        // Constants for 32-bit signed integer range
         final int INT_MAX = Integer.MAX_VALUE;
         final int INT_MIN = Integer.MIN_VALUE;
         
