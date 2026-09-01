@@ -840,4 +840,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
