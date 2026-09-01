@@ -395,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0392-is-subsequence) |
 | [0520-detect-capital](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0520-detect-capital) |
 | [0696-count-binary-substrings](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0696-count-binary-substrings) |
+| [0709-to-lower-case](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0709-to-lower-case) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0756-pyramid-transition-matrix](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0756-pyramid-transition-matrix) |
 | [0761-special-binary-string](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0761-special-binary-string) |
