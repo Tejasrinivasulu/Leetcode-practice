@@ -850,4 +850,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0020-valid-parentheses) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
