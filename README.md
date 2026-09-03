@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3718-smallest-missing-multiple-of-k](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/3875-construct-uniform-parity-array-i) |
 ## Math
 |  |
 | ------- |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Tejasrinivasulu/Leetcode-practice/tree/master/3875-construct-uniform-parity-array-i) |
 ## Number Theory
 |  |
 | ------- |
